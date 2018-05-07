@@ -2,6 +2,6 @@ package.json
 package-lock.json
 node_modules
 sass
-css
+css/fonts
 js
 images
